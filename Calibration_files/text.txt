@@ -1,0 +1,1 @@
+python calibrate.py --image_dir ./my_images --shift --sx 100 --sz 0 --yaw 90
